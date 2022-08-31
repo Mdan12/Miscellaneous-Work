@@ -27,7 +27,6 @@ class Money():
         else:
             print("wrong pick.")
             guesses += 1
-            print(guesses)
 
         
         while True:
